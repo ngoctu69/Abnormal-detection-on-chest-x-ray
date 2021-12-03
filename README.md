@@ -1,1 +1,1 @@
-# Graduate-thesis-Abnormal-detection-on-chest-x-ray
+# Abnormal-detection-on-chest-x-ray
